@@ -3,8 +3,8 @@
 The purpose of this tool is to quickly and easily defang malicious URLs and IP addresses from a simple command line interface. This is a process that is repeated quite often in a security operations center when writing reports for customers and needing to provide documentation of the malicous links and IP addresses visited by their network. However it is critical in this documentation to defang the IP addresses / URLs in order to prevent them from accidently being clicked/visted.
 
 ## Setup
-
-### Install the latest version of Python and install pyperclip
+---
+#### Install the latest version of Python and install pyperclip
 
 Visit https://www.python.org/downloads/ and install the latest version of Python. As of writing, this is Python 3.11.2 
 

@@ -51,6 +51,7 @@ From here, input the URL/ip you wish to defang. If you would like to include ano
 
 The new, defanged url is now copied to your clipboard and ready for you to analyze. 
 
+---
 
 Here is an example of Malicious IP addresses and Links being found on GreyNoise
 ![defanged-example1](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/2d7abcfef6aa0e96a9cf855afc16fb3745cb160c/images/Test%20case%201.png)

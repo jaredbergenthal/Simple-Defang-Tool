@@ -44,7 +44,7 @@ list_string = "\n".join(my_list)
 pyperclip.copy(list_string)
 
 print("####################################################################################################")
-print("# Here are you Defanged Opbjects. The entered IPs / Links have also been copied to your clipboard: #")
+print("Paste in the different IP addresses/links. You can either enter them in one by one and click enter to add another or you can simply paste multiple in at once. When you are done press enter twice to defang:")
 print("####################################################################################################")
 
 for value in defangedValues:

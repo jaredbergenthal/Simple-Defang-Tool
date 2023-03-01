@@ -47,6 +47,7 @@ From here, input the URL/ip you wish to defang. If you would like to include ano
 [Enter]
 ```
 
+Here is an example of Malicious IP addresses and Links being found on GreyNoise
 
 
 

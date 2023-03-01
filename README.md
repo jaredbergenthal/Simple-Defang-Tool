@@ -4,7 +4,7 @@ The purpose of this tool is to quickly and easily defang malicious URLs and IP a
 
 ## Setup
 ---
-#### Install the latest version of Python and install pyperclip
+#### Install the latest version of Python
 
 Visit https://www.python.org/downloads/ and install the latest version of Python. As of writing, this is Python 3.11.2 
 ![download-installer](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/download-installer.png)
@@ -19,7 +19,7 @@ After the setup is complete, you’ll need to ensure that pyperclip, a module th
 
 ![run-cmd](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/run-cmd.png)
 
-
+#### install pyperclip
 This will open your windows command prompt. From here, input 
 `pip install pyperclip`
 and hit enter to install the pyperclip.
@@ -28,7 +28,7 @@ and hit enter to install the pyperclip.
 ![install-pyperclip](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/install-pyperclip.png)
 
 
-Install the defanging tool
+#### Install the defanging tool
 
 Go to https://github.com/jaredbergenthal/Simple-Defang-Tool, and from here select the green “Code” button, select download zip, download, and extract the tool. After the file is extracted, simply double click the file entitled “main.py” to run it.
 

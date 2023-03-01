@@ -32,7 +32,7 @@ and hit enter to install the pyperclip.
 
 Go to https://github.com/jaredbergenthal/Simple-Defang-Tool, and from here select the green “Code” button, select download zip, download, and extract the tool. After the file is extracted, simply double click the file entitled “main.py” to run it.
 
-[![main-prompt](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/main-prompt.png)
+![main-prompt](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/main-prompt.png)
 From here, input the URL/ip you wish to defang. If you would like to include another URL/ip, simply click enter once then type the next one. When finished, click enter twice to run the program.
 
 ```sh
@@ -47,7 +47,7 @@ From here, input the URL/ip you wish to defang. If you would like to include ano
 [Enter]
 ```
 
-[![defanged-example](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/Test%20case%203.png)
+![defanged-example](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/Test%20case%203.png)
 
 The new, defanged url is now copied to your clipboard and ready for you to analyze. 
 
